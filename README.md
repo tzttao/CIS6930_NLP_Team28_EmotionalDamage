@@ -91,7 +91,7 @@ emotion_damage/      # Reusable package (data loaders, metrics, model helpers)
 train.py             # CLI training script
 predict.py           # CLI inference script
 CIS6930_...ipynb     # Original notebook
-CIS_6930_Project__Team__28_Emotional_Damage___Copy_.pdf  # Final project paper
+Emotional_Damage_Report.pdf  # Final project paper
 train.csv / test.csv # Kaggle GoEmotions split
 ```
 
